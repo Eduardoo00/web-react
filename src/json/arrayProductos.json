@@ -1,84 +1,84 @@
 [
     {
      "id":1,
-     "nombre":"" ,
-     "description":"",
-     "imagen":"" ,
-     "precio":2, 
+     "nombre":"vestido largo" ,
+     "description":"la mejor tela",
+     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/6a3bf5bf-a3b8-47b9-94e9-97f55fc541ec_1695117216.jpg?itok=GsPILdN3" ,
+     "precio":2000, 
      "stock":10,
-     "categoria":""
+     "categoria":"vestidos"
     },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":2,
+    "nombre":"cielo" ,
+    "description":"vestido amarillo",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/23494d10-13b1-481c-a4bf-487099026ffc_1694826879.jpg?itok=_YU4UbOl" ,
+    "precio":2500, 
     "stock":10,
-    "categoria":""
+    "categoria":"vestidos"
     },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":3,
+    "nombre":"moon" ,
+    "description":"Pantalon bota ancha",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31079286_1694533607.jpg?itok=cww0QUZC" ,
+    "precio":4000, 
     "stock":10,
-    "categoria":""
+    "categoria":"Pantalones"
     },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":3,
+    "nombre":"Nare" ,
+    "description":"Pantalon suelto",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078193_1694456252.jpg?itok=moq8H2FX" ,
+    "precio":4500, 
     "stock":10,
-    "categoria":""
+    "categoria":"Pantalones"
      },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-     "imagen":"" ,
-     "precio":2, 
+    "id":4,
+    "nombre":"camisa Nare" ,
+    "description":"chaqueta",
+     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078750_1692202710.jpg?itok=-lbFqMg4" ,
+     "precio":2000, 
     "stock":10,
-    "categoria":""
+    "categoria":"Camisa"
     },
     {
-    "id":1,
-     "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":5,
+     "nombre":"Nare azul" ,
+    "description":"Camisa",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078715_1692381301.jpg?itok=AjUjDB8a" ,
+    "precio":1500, 
     "stock":10,
-    "categoria":""
+    "categoria":"Camisa"
     },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":6,
+    "nombre":"Tricolor media estacion" ,
+    "description":"sweter",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/screenshot_2023-09-20-13-22-59-504_com.whatsapp_1695227026.jpg?itok=HgL7t93m" ,
+    "precio":4500, 
     "stock":10,
-    "categoria":""
+    "categoria":"buzos"
     },
     {
-    "id":1,
-    "nombre":"" ,
-    "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":7,
+    "nombre":"colgante" ,
+    "description":"sweter",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/cl17_1694194005.jpg?itok=xrF9OT9y" ,
+    "precio":6000, 
     "stock":10,
-    "categoria":""
+    "categoria":"buzos"
      },
      {
-    "id":1,
-    "nombre":"" ,
-     "description":"",
-    "imagen":"" ,
-    "precio":2, 
+    "id":8,
+    "nombre":"colque" ,
+     "description":"sweter",
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/cl5_1693589885.jpg?itok=1llGKW9h" ,
+    "precio":7000, 
     "stock":10,
-    "categoria":""
+    "categoria":"buzos"
     }
 
 ]
