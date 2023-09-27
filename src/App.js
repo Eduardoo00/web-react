@@ -1,6 +1,6 @@
 import React from "react";
 import {BrowserRouter, Routes, Route } from "react-router-dom";
-import NavBar1 from './components/NavBar1';
+import NavBar1 from "./components/NavBar1";
 import ItemListContainer from './components/ItemListContainer';
 import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailContainer";
 

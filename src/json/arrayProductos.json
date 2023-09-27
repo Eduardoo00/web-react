@@ -27,7 +27,7 @@
     "categoria":"Pantalones"
     },
     {
-    "id":3,
+    "id":4,
     "nombre":"Nare" ,
     "description":"Pantalon suelto",
     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078193_1694456252.jpg?itok=moq8H2FX" ,
@@ -36,7 +36,7 @@
     "categoria":"Pantalones"
      },
     {
-    "id":4,
+    "id":5,
     "nombre":"camisa Nare" ,
     "description":"chaqueta",
      "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078750_1692202710.jpg?itok=-lbFqMg4" ,
@@ -45,7 +45,7 @@
     "categoria":"Camisa"
     },
     {
-    "id":5,
+    "id":6,
      "nombre":"Nare azul" ,
     "description":"Camisa",
     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/nare31078715_1692381301.jpg?itok=AjUjDB8a" ,
@@ -54,16 +54,16 @@
     "categoria":"Camisa"
     },
     {
-    "id":6,
+    "id":7,
     "nombre":"Tricolor media estacion" ,
     "description":"sweter",
-    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/screenshot_2023-09-20-13-22-59-504_com.whatsapp_1695227026.jpg?itok=HgL7t93m" ,
+    "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/berna_1590548720.jpg?itok=zzs058Cx" ,
     "precio":4500, 
     "stock":10,
     "categoria":"buzos"
     },
     {
-    "id":7,
+    "id":8,
     "nombre":"colgante" ,
     "description":"sweter",
     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/cl17_1694194005.jpg?itok=xrF9OT9y" ,
@@ -72,7 +72,7 @@
     "categoria":"buzos"
      },
      {
-    "id":8,
+    "id":9,
     "nombre":"colque" ,
      "description":"sweter",
     "imagen":"https://www.distritomoda.com.ar/sites/default/files/styles/producto_interior/public/imagenes/cl5_1693589885.jpg?itok=1llGKW9h" ,

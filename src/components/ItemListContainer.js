@@ -7,7 +7,7 @@ import ItemList from './ItemList/ItemList';
 
 const ItemListContainer = () => {
 
-  const [item,setitem] = useState ([]);
+  const [item,setItem] = useState ([]);
   const {id}= useParams();
 
   useEffect (()=>{ 
@@ -15,10 +15,10 @@ const ItemListContainer = () => {
     try{  
      const data =await new Promise ((resolve)=>{
       setTimeout (()=>{ 
-        resolve(id ? arrayproductos.filter(i => i.categoria === id) : arrayproductos)
-      },3000);
+        resolve(id ? arrayproductos.filter(item => item.categoria === id) : arrayproductos)
+      },2000);
     })
-    setitem(data);
+    setItem(data);
    }catch(error){ 
     console.log('error',error);  
     }
