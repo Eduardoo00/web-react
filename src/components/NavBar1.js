@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom';
 import CartWidget from './CartWidget';
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+
 
 const NavBar1 = () => {
   const imageStyle = {
@@ -23,7 +21,7 @@ const NavBar1 = () => {
         <li className="nav-item">
           <NavLink className="nav-link " aria-current="page" to={"/"}>Inicio</NavLink>
         </li>
-        <li class="nav-item">
+        <li className="nav-item">
         <NavLink className="nav-link" to={"/category/vestidos"}>vestidos</NavLink>
         </li>
         <li className="nav-item">
@@ -35,7 +33,9 @@ const NavBar1 = () => {
         <li className="nav-item">
           <NavLink className="nav-link" to={"/category/buzos"}>buzos</NavLink>
         </li>
-        <Nav.Link href="#pricing"><CartWidget/></Nav.Link>
+         <li className="nav-item">
+         <Link className="justify-content-end  align-items-center" to={"/cart"}><CartWidget/></Link>
+         </li>
        
        
       </ul>
